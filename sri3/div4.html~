@@ -1,0 +1,23 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="css/div4.css">
+
+</head>
+<body>
+<div class="srikar">
+<div class="sri1">
+<p>one one one</p>
+
+</div>
+<div class="sri2">
+<p>two two two two two two</p>
+</div>
+
+<div class="sri3">
+<p>three three three three</p>
+</div>
+</div>
+</body>
+</html>
